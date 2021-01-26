@@ -1,0 +1,16 @@
+.origami{
+    font-style:italic;
+    display:flex;
+    flex-wrap:wrap;
+    text-decoration-style:wavy;
+    text-decoration-color:magenta;
+    text-align: center;
+}
+body{
+    background-color:rgb(47, 159, 179);
+}
+*{
+   border:solid;
+   border-style:ridge
+}
+
